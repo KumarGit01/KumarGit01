@@ -15,8 +15,8 @@ Hey there, fellow wanderer in the digital forest! 🌳✨ My coding journey is a
 - A commitment to creating a harmonious blend of nature and code.
 
 🌱 **Current Projects:**
-- 🌺 [Project Bloom] - Growing a garden of beautiful code.
-- 🌲 [Project Canopy] - Building the tallest tree in the GitHub forest.
+- 🌺 [REAL-ESTATE] - Growing a garden of beautiful code.
+- 🌲 [MOVIE APP] - Building the tallest tree in the GitHub forest.
 
 🌿 **Connect with Me:**
 - 🐦 [Twitter](https://twitter.com/yourhandle) - Follow my bird songs!
