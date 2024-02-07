@@ -54,8 +54,9 @@ Frameworks, Platforms & Libraries
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465](https://github.com/KumarGit01/KumarGit01/assets/152199360/22bcfac9-b154-40db-9814-4efabee4cd11)
 
 
-
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=KUMAR&label=Profile%20Views&color=5&pretty=false" />
+</a>
 
 
 Join me on this journey where nature meets code, and let's build a sustainable and vibrant ecosystem together! 🌍💻
