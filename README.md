@@ -1,6 +1,7 @@
 # Welcome to My Coding Oasis 🌿👩‍💻
 
-![ezgif-3-8485709dc0](https://github.com/KumarGit01/KumarGit01/assets/152199360/638f96ea-6c12-47d6-995d-58c568680408)
+![ezgif-3-a8b391632a](https://github.com/KumarGit01/KumarGit01/assets/152199360/1c959109-d0c0-4e61-971c-c65153426fb4)
+
 
 
 
