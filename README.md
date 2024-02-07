@@ -1,6 +1,6 @@
 <H1># Welcome to My Coding Oasis 🌿👩‍💻 </H1>
 
-![ezgif-4-02eaf16dcf](https://github.com/KumarGit01/KumarGit01/assets/152199360/c6ce6b72-b81b-42e7-a97e-55fe1d7c2d63)
+![ezgif-4-30e491e1d2](https://github.com/KumarGit01/KumarGit01/assets/152199360/465a3493-9cea-4c73-b411-5f3173e14e58)
 
 
 
