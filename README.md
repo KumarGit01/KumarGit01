@@ -1,6 +1,9 @@
 # Welcome to My Coding Oasis 🌿👩‍💻
 
-![Black and White Animated Black Friday Instagram Post](https://github.com/KumarGit01/KumarGit01/assets/152199360/08d032f7-2d8f-4bdd-8885-b45cf015824f)
+
+https://github.com/KumarGit01/KumarGit01/assets/152199360/2840f9bd-927c-4a93-916f-04c81c40910b
+
+
 
 
 Hey there, fellow wanderer in the digital forest! 🌳✨ My coding journey is a blend of nature's serenity and the magic of code. As I navigate through the tech wilderness, I'm thrilled to share my discoveries and creations.
