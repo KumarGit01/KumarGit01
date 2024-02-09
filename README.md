@@ -11,12 +11,12 @@
 ⭐ Ask me anything about DSA<BR>
 ⚡ Fun fact: I prefer tabs over spaces <BR>
 
-<H1>🚀 **What I Bring to the Forest:**</H1>
+<H1>🚀 What I Bring to the Forest:</H1>
 - A passion for coding that's as vast as the open sky.<BR>
 - A love for exploring new territories in the tech landscape.<BR>
 - A commitment to creating a harmonious blend of nature and code.
 
-<H1>🌱 **Current Projects:**</H1>
+<H1>🌱 Current Projects:</H1>
 - 🌺 [REAL-ESTATE] - Growing a garden of beautiful code.<BR>
 - 🌲 [MOVIE APP] - Building the tallest tree in the GitHub forest.
 <BR>
@@ -24,7 +24,7 @@
 <br>
 
 
-<H1>🌿 **Connect with Me:**  <br>  </H1>
+<H1>🌿 Connect with Me:  <br>  </H1>
 
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465](https://github.com/KumarGit01/KumarGit01/assets/152199360/b2124349-aaae-49b6-bf89-eb8c526f9ce5) 
